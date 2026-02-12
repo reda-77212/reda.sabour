@@ -6,7 +6,7 @@ Objectif : devenir administrateur systèmes & réseaux
 
 Je développe actuellement mes compétences en administration serveurs, configuration réseau et gestion d’infrastructures informatiques à travers mes projets scolaires et personnels.
 
----
+
 
 ##  Compétences techniques
 
@@ -18,7 +18,7 @@ Je développe actuellement mes compétences en administration serveurs, configur
 - Bases en algorithmique
 - HTML / CSS (notions)
 
----
+
 
 ##  Projets réalisés
 
@@ -27,14 +27,14 @@ Développement d’une page web statique en utilisant HTML et CSS afin de compre
 
 
 
----
+
 
 ###  Exercices d’algorithmique
 Résolution d’exercices logiques et algorithmiques pour développer la compréhension des structures de base en programmation.
 
 
 
----
+
 
 ###  Simulation d’un réseau d’entreprise
 Création et configuration d’un réseau simulé incluant adressage IP et segmentation logique.
@@ -44,14 +44,14 @@ Outils utilisés :
 
 
 
----
+
 
 ###  Installation et configuration de postes clients
 Mise en place de postes informatiques avec configuration réseau et paramètres système.
 
 
 
----
+
 
 ### Administration systèmes (Windows Server / Linux)
 Travaux pratiques d’administration :
@@ -59,7 +59,7 @@ Travaux pratiques d’administration :
 - gestion de base de l’environnement serveur
 
 
----
+
 
 ##  Formation
 
@@ -69,14 +69,14 @@ Depuis 2025
 
  Baccalauréat STMG – Systèmes d’Information de Gestion
 
----
+
 
 ##  Langues
 
 - Arabe : courant  
 - Anglais : niveau scolaire  
 
----
+
 
 ##  Qualités professionnelles
 
@@ -85,14 +85,14 @@ Depuis 2025
 - Sens de l’organisation
 - Esprit d’équipe
 
----
+
 
 ##  Me contacter
 
-📧 red7743212@gmail.com  
+ Red7743212@gmail.com  
 
 Je suis actuellement à la recherche d’un stage en systèmes et réseaux afin de développer mon expérience professionnelle et mes compétences techniques.
 
----
+
 
  Merci de visiter mon portfolio !
