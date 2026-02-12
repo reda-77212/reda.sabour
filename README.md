@@ -1,11 +1,11 @@
 #  Bonjour, moi c’est Réda
-Étudiant en BTS Services Informatiques aux Organisations (option systèmes & réseaux)  
-Champagne-sur-Seine, France  
-Permis B – Mobile  
-Objectif : devenir administrateur systèmes & réseaux  
 
-Je développe actuellement mes compétences en administration serveurs, configuration réseau et gestion d’infrastructures informatiques à travers mes projets scolaires et personnels.
+Étudiant en BTS Services Informatiques aux Organisations, spécialisé en systèmes et réseaux, je me forme à l’administration de serveurs, à la configuration d’infrastructures réseau et à la gestion d’environnements informatiques professionnels.
 
+À travers mes projets scolaires et mes expérimentations techniques, je développe des compétences concrètes en installation de systèmes, configuration réseau, virtualisation et maintenance d’environnements informatiques. J’aime comprendre le fonctionnement des infrastructures, résoudre des problèmes techniques et mettre en place des solutions fiables.
+
+📍 Basé à Champagne-sur-Seine, mobile et disponible pour un stage en systèmes et réseaux.  
+🎯 Objectif professionnel : devenir administrateur systèmes & réseaux.
 
 
 ##  Compétences techniques
