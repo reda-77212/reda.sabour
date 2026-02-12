@@ -4,8 +4,8 @@
 
 À travers mes projets scolaires et mes expérimentations techniques, je développe des compétences concrètes en installation de systèmes, configuration réseau, virtualisation et maintenance d’environnements informatiques. J’aime comprendre le fonctionnement des infrastructures, résoudre des problèmes techniques et mettre en place des solutions fiables.
 
-📍 Basé à Champagne-sur-Seine, mobile et disponible pour un stage en systèmes et réseaux.  
-🎯 Objectif professionnel : devenir administrateur systèmes & réseaux.
+ Basé à Champagne-sur-Seine, mobile et disponible pour un stage en systèmes et réseaux.  
+ Objectif professionnel : devenir administrateur systèmes & réseaux.
 
 
 ##  Compétences techniques
