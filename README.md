@@ -1,98 +1,86 @@
-#  Bonjour, moi c’est Réda
+# Developer Portfolio Template 🚀
 
-Étudiant en BTS Services Informatiques aux Organisations, spécialisé en systèmes et réseaux, je me forme à l’administration de serveurs, à la configuration d’infrastructures réseau et à la gestion d’environnements informatiques professionnels.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-À travers mes projets scolaires et mes expérimentations techniques, je développe des compétences concrètes en installation de systèmes, configuration réseau, virtualisation et maintenance d’environnements informatiques. J’aime comprendre le fonctionnement des infrastructures, résoudre des problèmes techniques et mettre en place des solutions fiables.
+## What is this?
 
- Basé à Champagne-sur-Seine, mobile et disponible pour un stage en systèmes et réseaux.  
- Objectif professionnel : devenir administrateur systèmes & réseaux.
+This simple portfolio template is designed to showcase your past projects, career history, skill sets, and more.
 
+View the [Demo](https://yujisatojr.github.io/react-portfolio-template/).
 
-##  Compétences techniques
+**This template is free to use, and no attribution is required.** You can fork or download this repository to customize it for your own use. Please don't forget to leave a ⭐ if you like this portfolio!
 
-- Installation et configuration de postes clients
-- Administration Windows Server (bases)
-- Notions Linux (installation et commandes de base)
-- Configuration réseau : TCP/IP, VLAN (bases)
-- Simulation réseau avec Cisco Packet Tracer
-- Bases en algorithmique
-- HTML / CSS (notions)
+![screenshot](./src/assets//images/screenshot.png)
 
+## Features
 
+✅ Open source (free to use, no attribution required)  
+✅ Responsive design & mobile-friendly  
+✅ Supports both dark and light modes  
+✅ Highly customizable multi-component layout  
+✅ Built with modern technologies (React, TypeScript, JavaScript, and SCSS)  
 
-##  Projets réalisés
+## Quick Setup
 
-###  Création d’une page web HTML / CSS
-Développement d’une page web statique en utilisant HTML et CSS afin de comprendre la structure d’un site et la mise en forme.
+1. Ensure you have [Node.js](https://nodejs.org/) installed. Check your installation by running:
 
+    ```bash
+    node -v
+    ```
 
+2. In the project directory, install dependencies:
 
+    ```bash
+    npm install
+    ```
 
+3. Start the development server:
 
-###  Exercices d’algorithmique
-Résolution d’exercices logiques et algorithmiques pour développer la compréhension des structures de base en programmation.
+    ```bash
+    npm start
+    ```
 
+4. Open [http://localhost:3000](http://localhost:3000) to view the app in the browser.
 
+5. Customize the template by navigating to the `/src/components` directory. Modify texts, pictures, and other information as needed.
 
+The page will reload if you make edits, and you will see any lint errors in the console.
 
+If you are interested in creating a mockup image like the ones from the personal projects section, I recommend [Genmoo](https://gemoo.com/tools/browser-mockup-generator/). This website lets you generate sleek looking browser mockups for free.
 
-###  Simulation d’un réseau d’entreprise
-Création et configuration d’un réseau simulé incluant adressage IP et segmentation logique.
+## Deployment
 
-Outils utilisés :
-- Cisco Packet Tracer
+You can choose your preferred service (e.g., [Netlify](https://www.netlify.com/), [Render](https://render.com/), [Heroku](https://www.heroku.com/)) for deployment. One of the easiest ways to host this portfolio is using GitHub Pages. Follow the instructions below for a production deploy.
 
+1. **Set Up GitHub Repository**
 
+    Create a new repository on GitHub for your portfolio app.
 
+2. **Configure `package.json`**
 
+    Edit the following properties in your `package.json` file:
 
-###  Installation et configuration de postes clients
-Mise en place de postes informatiques avec configuration réseau et paramètres système.
+    ```json
+    {
+        "homepage": "https://yourusername.github.io/your-repo-name",
+        "scripts": {
+            "predeploy": "npm run build",
+            "deploy": "gh-pages -d build",
+            ...
+        }
+    }
+    ```
 
+    Replace `yourusername` with your GitHub username and `your-repo-name` with the name of your GitHub repository.
 
+3. **Deploy to GitHub Pages**
 
+    Run the following command to deploy your app:
 
+    ```bash
+    npm run deploy
+    ```
 
-### Administration systèmes (Windows Server / Linux)
-Travaux pratiques d’administration :
-- installation système
-- gestion de base de l’environnement serveur
+4. **Access Your Deployed App**
 
-
-
-
-##  Formation
-
- BTS Services Informatiques aux Organisations  
-Lycée Léonard de Vinci – Melun  
-Depuis 2025
-
- Baccalauréat STMG – Systèmes d’Information de Gestion
-
-
-
-##  Langues
-
-- Arabe : courant  
-- Anglais : niveau scolaire  
-
-
-
-##  Qualités professionnelles
-
-- Autonomie
-- Rigueur
-- Sens de l’organisation
-- Esprit d’équipe
-
-
-
-##  Me contacter
-
- Red7743212@gmail.com  
-
-Je suis actuellement à la recherche d’un stage en systèmes et réseaux afin de développer mon expérience professionnelle et mes compétences techniques.
-
-
-
- Merci de visiter mon portfolio !
+    After successfully deploying, you can access your app at `https://yourusername.github.io/your-repo-name`.
